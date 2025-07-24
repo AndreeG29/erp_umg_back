@@ -1,6 +1,5 @@
 node_modules/
 dist/
 .env
-# Archivos de conexión a BD
-src/config/db.ts
-dist/config/db.js
+*.log
+.DS_Store
