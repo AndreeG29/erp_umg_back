@@ -32,5 +32,5 @@ app.listen(PORT, () => {
 });
 
 app.get('/', (_req, res) => {
-  res.send('✅ API corriendo correctamente en Render');
+  res.send(' API corriendo correctamente en Render');
 });
